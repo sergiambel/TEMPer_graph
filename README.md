@@ -3,6 +3,8 @@ Awesome WEB GUI for improve the readability of your USB Thermometer captured dat
 
 This project shows a small and agile script to create an awesome browsable chart from your temper captured data.
 
+[ONLINE DEMO](http://htmlpreview.github.com/?https://github.com/sergiambel/TEMPer_graph/blob/master/demo.html)
+
 REQUERIMENTS:
 -------------
 [USB Thermometer](http://dx.com/p/81105?Utm_rid=36889815&Utm_source=affiliate)
