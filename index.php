@@ -12,6 +12,8 @@ by Sergi Ambel (2013)
 
 <html>
 	<head>
+        <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 		<script src="http://code.highcharts.com/stock/highstock.js"></script>
 		<script src="http://code.highcharts.com/stock/modules/exporting.js"></script>
