@@ -6,7 +6,9 @@ This project shows a small and agile script to create an awesome browsable chart
 REQUERIMENTS:
 -------------
 USB Thermometer ( http://dx.com/p/81105?Utm_rid=36889815&Utm_source=affiliate )
+
 Software to read the Thermometer data: http://www.pcsensor.com/uploadFile/APPsoftware/TEMPer%20V23.9.zip
+
 Webserver with PHP: You could use XAMPP for Windows http://xampp.softonic.com/
 
 INSTALLATION:
