@@ -1,4 +1,4 @@
-Awesome WEB GUI for improve the readability of your USB Thermometer captured data
+Awesome WEB GUI to improve the readability of your USB Thermometer captured data
 =================================================================================
 
 This project shows a small and agile script to create an awesome browsable chart from your temper captured data.
